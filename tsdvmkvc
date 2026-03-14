@@ -1,0 +1,6 @@
+[33m2cd75b1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: Apply project updates
+[33m1e9fb3e[m HEAD@{1}: checkout: moving from backup-main to main
+[33ma1a2fc5[m[33m ([m[1;32mbackup-main[m[33m)[m HEAD@{2}: checkout: moving from main to backup-main
+[33m1e9fb3e[m HEAD@{3}: reset: moving to origin/main
+[33ma1a2fc5[m[33m ([m[1;32mbackup-main[m[33m)[m HEAD@{4}: commit: finished exercise 7
+[33m1add3d1[m HEAD@{5}: clone: from https://github.com/Jirotgak/juphc-tc_pipeline.git
